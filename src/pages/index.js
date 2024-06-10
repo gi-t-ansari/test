@@ -1,0 +1,10 @@
+export { Login, SignUp } from "./auth";
+export { Dashboard } from "./dashboard";
+export { Students } from "./students";
+export { Teachers } from "./teachers";
+export { Classes } from "./classes";
+export { Attendance } from "./attendance";
+export { Notice } from "./notice";
+export { Account } from "./account";
+export { Profile } from "./profile";
+export { Fees } from "./fees";
